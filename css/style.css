@@ -486,7 +486,7 @@ body {
 }
 .footer .f-content p {
   color: white;
-  font-size: 30px;
+  font-size: 25px;
   font-weight: bold;
   text-align: center;
 }
@@ -500,6 +500,7 @@ body {
   .main-container {
     width: 750px;
   }
+   
 }
 /* Medium */
 
@@ -539,7 +540,7 @@ body {
     flex-basis: 275px;
   }
   .About .a-image::after {
-    right: -89px;
+    right: -55px;
     border-left: 57px solid var(--main-color);
     border-bottom: 54px solid var(--main-color);
     width: 65px;
